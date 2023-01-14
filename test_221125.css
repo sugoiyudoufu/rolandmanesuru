@@ -1,0 +1,22 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+li {
+    list-style: none;
+    float: left;
+    box-sizing: border-box;
+}
+
+.dobu {
+    background-color: blue;
+    color: azure;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+div a {
+    display: inline-block;
+    background-color: brown;
+    padding: 20px;
+}
